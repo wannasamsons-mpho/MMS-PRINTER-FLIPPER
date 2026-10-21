@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: mms-printer-flipper
+    runtime: static
+    buildCommand: echo "No build required"
+    staticPublishPath: .
