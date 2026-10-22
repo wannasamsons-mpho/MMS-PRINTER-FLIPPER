@@ -85,7 +85,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .service-image { height: 190px; background-position: center; background-size: cover; transition: transform .55s cubic-bezier(.2,.7,.2,1); }
 .service-card:hover .service-image { transform: scale(1.045); }
 .image-paper { background: #fff url("./assets/services-flyer.png") center/contain no-repeat; }
-.image-bottles { background-image: url("./assets/water-bottles.jpg"); }
+.image-bottles { background: #fff url("./assets/twin-branded-bottles.png") center/contain no-repeat; }
 .image-clothing { background-image: url("./assets/branded-clothing.png"); }
 .image-vehicle { background-image: url("./assets/branded-vehicle.jpeg"); }
 .image-signs { background: #fff url("./assets/school-crest.png") center/contain no-repeat; }
