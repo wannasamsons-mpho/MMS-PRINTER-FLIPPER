@@ -88,7 +88,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .image-bottles { background-image: url("./assets/water-bottles.jpg"); }
 .image-clothing { background-image: url("./assets/branded-clothing.png"); }
 .image-vehicle { background-image: url("./assets/branded-vehicle.jpeg"); }
-.image-signs { background-image: url("./assets/correx-board.jpeg"); }
+.image-signs { background: #fff url("./assets/school-crest.png") center/contain no-repeat; }
 .image-large-format { background: #fff url("./assets/funeral-parlor-flyer.png") center/contain no-repeat; }
 .image-branding { background: #fff url("./assets/mms-logo.png") center/contain no-repeat; }
 .service-card-content { padding: 22px 24px 21px; }
